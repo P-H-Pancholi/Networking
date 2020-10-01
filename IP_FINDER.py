@@ -1,4 +1,4 @@
-#using this simple python program you can find IP address of any site
+#using this simple python program you can find IP address of any site and without any conflicts
 #just like pinging a host it returns a IP
 
 import socket
